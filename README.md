@@ -1,3 +1,3 @@
 # JS-Games
 
-a collection of small games for javascript fundamentals.
+a collection of quick games using javascript.
